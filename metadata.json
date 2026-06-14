@@ -1,0 +1,6 @@
+{
+  "name": "Boutique E-Commerce Frontend",
+  "description": "Une mini plateforme e-commerce construite en React avec Tailwind CSS, simulant un catalogue, un panier, des favoris et un checkout, conçue avec des explications pédagogiques pour débutants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
